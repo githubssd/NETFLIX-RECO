@@ -1,3 +1,6 @@
+# data and env
+local_env/
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
